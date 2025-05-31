@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SoundGuard</string>
+    <string name="title_activity_main">SoundGuard</string>
+
+    <!-- Mensajes -->
+    <string name="waiting_for_sound">Esperando sonido...</string>
+    <string name="collapse_detected">¡Derrumbe detectado!</string>
+    <string name="fire_detected">¡Alerta de incendio!</string>
+    <string name="baby_detected">Llanto de bebé detectado</string>
+    <string name="doorbell_detected">Timbre sonando</string>
+    <string name="alarm_detected">Alarma activada!</string>
+    <string name="start_monitoring">Iniciar monitoreo</string>
+    <string name="stop_monitoring">Detener monitoreo</string>
+    <string name="mic_permission_required">Se requiere permiso de micrófono para esta funcionalidad</string>
+
+    <!-- Navegación -->
+    <string name="menu_history">Historial</string>
+    <string name="menu_settings">Ajustes</string>
+</resources>
